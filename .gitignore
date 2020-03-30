@@ -1,0 +1,3 @@
+# lets ignore slt and gcode models
+*.stl
+*.gcode
